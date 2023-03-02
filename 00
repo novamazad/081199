@@ -55,6 +55,10 @@ http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/28169
 http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/28170
 #EXTINF:-1 group-title="BEIN",BEIN Sport 4
 http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/28171
+#EXTINF:-1 group-title="BEIN",BEIN Sport 3
+http://195.154.179.234:1234/stream/btsport3/stream.m3u8
+http://195.154.179.234:1234/stream/btsport3/master.m3u8
+
 
 SPORT PREMIUM
 
@@ -89,7 +93,11 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165085
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/221947
 #EXTINF:-1 group-title="Local",iNews
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
+#EXTINF:-1 group-title="Local",Indosiar
+http://103.167.167.5:8111/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Local",Jak TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157601
 #EXTINF:-1 group-title="Local",MNCTV HD
 http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165054
+#EXTINF:-1 group-title="Local",Rcti
+http://103.167.167.5:8111/play/a01c/index.m3u8
