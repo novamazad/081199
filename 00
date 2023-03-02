@@ -1,3 +1,8 @@
 SPORT
 #EXTINF:-1 group-title="Sport",ELEVEN 2
 rtmp://119.81.124.89/sat/tv741
+LOCAL
+#EXTINF:-1 group-title="Local",iNews
+http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/157579
+#EXTINF:-1 group-title="Local",iNews HD
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
