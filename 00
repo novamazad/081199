@@ -5,8 +5,6 @@ rtmp://119.81.124.89/sat/tv731
 rtmp://119.81.124.89/sat/tv741
 #EXTINF:-1 group-title="Sport",BEIN Sports 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-#EXTINF:-1 group-title="Sport",DAZN F1 UHD 4K
-http://tribaliptv.com:8080/Gustavo/123456/4930
 LOCAL
 #EXTINF:-1 group-title="Local",iNews HD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
