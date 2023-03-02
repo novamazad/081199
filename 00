@@ -21,3 +21,5 @@ http://iptvmedia.live:8080/sammie6804/F4hFfX78kLdXkpb5/165054
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images//channel/928ba7e3/38c2.png" group-title="Local",RCTI 
 http://103.167.167.5:8111/play/a01c/index.m3u8
 
+#EXTINF:-1 tvg-id="epl1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 1
+https://tech.cett.my.id/hls/s1.m3u8
