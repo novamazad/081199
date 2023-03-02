@@ -5,8 +5,67 @@ rtmp://119.81.124.89/sat/tv731
 rtmp://119.81.124.89/sat/tv741
 #EXTINF:-1 group-title="Sport",BEIN Sports 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+#EXTINF:-1 group-title="Sport",NBA TV
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/3946
+#EXTINF:-1 group-title="Sport",Eurosport 1 SD
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/1201
+#EXTINF:-1 group-title="Sport",Eurosport 1 HD
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/11578
+#EXTINF:-1 group-title="Sport",Eurosport 1 FHD
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/11577
+#EXTINF:-1 group-title="Sport",Eurosport 2 SD
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/1202
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/103606
+#EXTINF:-1 group-title="Sport",ESPN 1 ᴴᴰ⁺
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/103607
+#EXTINF:-1 group-title="Sport",ESPN 2 ᴴᴰ⁺
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/103608
+#EXTINF:-1 group-title="Sport",ESPN 3 ᴴᴰ⁺
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/103609
+#EXTINF:-1 group-title="Sport",ESPN 4 ᴴᴰ⁺
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/103610
+#EXTINF:-1 group-title="Sport",WWE Smackdown
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/65257
+#EXTINF:-1 group-title="Sport",Sky Bundesliga 1
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/6866
+#EXTINF:-1 group-title="Sport",JP Sports 1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1076047&extension=ts&play_token=v6dayvmow4
+#EXTINF:-1 group-title="Sport",JP Sports 2
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1076046&extension=ts&play_token=BcgL5vDgQ4
 
+EXTRA EVENT
 
+#EXTINF:-1 group-title="Extra Event",BT Sport Extra 1
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/91639
+#EXTINF:-1 group-title="Extra Event",BT Sport Extra 2
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/91640
+#EXTINF:-1 group-title="Extra Event",BT Sport Extra 3
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/91641
+#EXTINF:-1 group-title="Extra Event",BT Sport Extra 4
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/91642
+#EXTINF:-1 group-title="Extra Event",BT Sport Extra 5
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/91643
+#EXTINF:-1 group-title="Extra Event",BT Sport Extra 6
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/91644
+
+BEIN Sport
+#EXTINF:-1 group-title="BEIN",BEIN Sport 2 
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/28169
+#EXTINF:-1 group-title="BEIN",BEIN Sport 3
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/28170
+#EXTINF:-1 group-title="BEIN",BEIN Sport 4
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/28171
+
+SPORT PREMIUM
+
+#EXTINF:-1 group-title="Sport Premium",DAZN 1 720p
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/6860
+#EXTINF:-1 group-title="Sport Premium",DAZN 2 720p
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/6861
+#EXTINF:-1 group-title="Sport Premium",Eurossport 1
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/6862
+#EXTINF:-1 group-title="Sport Premium",Eurossport 2
+http://allbis.balans12.xyz:50750/6Q6vL6UPxQqC/vm2xuGuB3YVh/6863
 
 LOCAL
 
