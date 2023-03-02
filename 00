@@ -2,6 +2,14 @@
 https://sc.id-tv.kz/Eurosport_1HD.m3u8
 #EXTINF:-1 group-title="Sport",Eurosport 2
 https://sc.id-tv.kz/Eurosport_2HD.m3u8
+#EXTINF:-1 group-title="Sport",Ten 1 HD
+http://103.218.25.12:89/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Sport",Ten 2 HD
+http://103.218.25.12:89/play/a027/index.m3u8
+#EXTINF:-1 group-title="Sport",Ten 3 HD
+http://103.218.25.12:89/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Sport",Ten 5 HD
+http://103.218.25.12:89/play/a00r/index.m3u8
 
 
 #EXTINF:-1 group-title="Local",INEWS HD
