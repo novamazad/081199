@@ -5,21 +5,19 @@ rtmp://119.81.124.89/sat/tv731
 rtmp://119.81.124.89/sat/tv741
 #EXTINF:-1 group-title="Sport",BEIN Sports 4K
 http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+
 LOCAL
-#EXTINF:-1 group-title="Local",iNews HD
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
+
 #EXTINF:-1 group-title="Local",Besmart
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165087
 #EXTINF:-1 group-title="Local",Boomerang
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165109
 #EXTINF:-1 group-title="Local",Cartoon Network
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157593
-#EXTINF:-1 group-title="Local",iNews
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
-#EXTINF:-1 group-title="Local",Discovery World
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157597
 #EXTINF:-1 group-title="Local",Disney Junior
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162511
+#EXTINF:-1 group-title="Local",Discovery World
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157597
 #EXTINF:-1 group-title="Local",HBO
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
 #EXTINF:-1 group-title="Local",HBO Hits ID
@@ -28,5 +26,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165085
 #EXTINF:-1 group-title="Local",Hits Movies ID
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/221947
+#EXTINF:-1 group-title="Local",iNews
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157579
 #EXTINF:-1 group-title="Local",MNCTV HD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/275985
