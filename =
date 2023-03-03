@@ -1,8 +1,7 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://tv.cloudcdn.me:80/live/Ab0jVoVN4c/EjK6GSiG13/170.ts
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=945813&extension=ts&play_token=RmFK3j6FUm
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9NHVw1b/transtv.jpg" group-title="Local",TRANSTV
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683100&extension=ts&play_token=RmFK3j6FUm
