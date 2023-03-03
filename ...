@@ -16,7 +16,8 @@ https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiF
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDQ9su6QoTbTY0Y74mBi5yY
 #EXTINF:-1 xui-id="51" tvg-id="AniPlus.th" tvg-name="Aniplus" tvg-logo="https://iptv.lancartech.co.id:443/images/ab6b215c430539b6a697baf1f336b9a3.png" group-title="Kids",Aniplus
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCsikkvXHgeHUcWaWSAZqE0
-
+#EXTINF:-1 xui-id="9" tvg-id="antv.id" tvg-name="ANTV" tvg-logo="https://iptv.lancartech.co.id:443/images/0cc15eb4946ea5aea150cf36cf494d98.png" group-title="Local",ANTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDP9h0LqvwyAvy4ATx1P4G2
 #EXTINF:-1 xui-id="133886" tvg-id="" tvg-name="Arena 1 Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SLSxy5isn75MDJXzXUO-fheQ9DkzKukMQsvdffeUWZfc.png" group-title="VIP Sports 3",Arena 1 Premium
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAySTMXuWieSXEATo20lpwb
 #EXTINF:-1 xui-id="133887" tvg-id="" tvg-name="Arena 2 Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SSa-Sas3EuGswLqcn23BwD6wwD0O2M9lCI2kmCP4kGb4.png" group-title="VIP Sports 3",Arena 2 Premium
@@ -129,7 +130,8 @@ https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiF
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXChKjZb7TETrHAzT0dTDFg3
 #EXTINF:-1 xui-id="133903" tvg-id="" tvg-name="BeIN Sports 9 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiBjTdne7QTrB3bPz-yCNL3Q.png" group-title="Bein Group",BeIN Sports 9 MAX FR
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBEtC30kd8UR797BhA2pzSs
-
+#EXTINF:-1 xui-id="17" tvg-id="beritasatu.id" tvg-name="Berita Satu" tvg-logo="https://iptv.lancartech.co.id:443/images/a09601bc98096c0083191e9d08b4221f.png" group-title="Local",Berita Satu
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDvIs5OmcjebV6XFLZi_NJi
 #EXTINF:-1 xui-id="132957" tvg-id="" tvg-name="BETV Bengkulu" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SZlxg7LHgZE3UYsWoqasN2quqXmFzsB6OVJHii0diy1g.png" group-title="TV Daerah",BETV Bengkulu
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCFAvCOfjut5itzDj4kzQDa
 #EXTINF:-1 xui-id="51989" tvg-id="bloomberg.id" tvg-name="Bloomberg" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcZuTMpuho3BHGlDlw2IUgnPlM4K5Fc0E9HAjMGyaN6khFQBWifAU_M8_mENoWBiEI.png" group-title="News",Bloomberg
@@ -316,7 +318,6 @@ https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiF
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDJnPbkE5dv0RC5euhqX_wK
 #EXTINF:-1 xui-id="14" tvg-id="kompastv.id" tvg-name="Kompas TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcSJtHIzTJOgr1uB8JzjdWmFFUawhypjRd4pt2z_3nxqD9vEAgrltnQQDD3g5XbGwo.png" group-title="Local",Kompas TV
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDPkcUozOeMH1XT2KsJu9Tl
-#EXTINF:-1 xui-id="132929" tvg-id="" tvg-name="Lancar 24/7 Boruto: Naruto Next Generations" 
 #EXTINF:-1 xui-id="16748" tvg-id="LifetimeAsia.us" tvg-name="Lifetime" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8_X_nAL1oncqjTXIvWwV5GOzic2ddURxVqxvL9yg0rsaZ_lyUnJ5nKlVBbRAzjQU0.png" group-title="Entertainment",Lifetime
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCteF5iQmT_7ld-6eEt37-t
 #EXTINF:-1 xui-id="52017" tvg-id="LONAPNG" tvg-name="Love Nature" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcOsp9AQiNnrLqqjDpFQm874zFC03NsUsLOcz8WvxxKGrgyGxzCwOwP-kx1uBB9Ev0.png" group-title="Education",Love Nature
