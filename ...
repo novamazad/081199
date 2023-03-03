@@ -1,0 +1,513 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="54416" tvg-id="abcaustralia.id" tvg-name="ABC Australia" tvg-logo="http://iptv.lancar.tv:8080/images/022c8d712d47d2c06d01374c1e801d35.png" group-title="News",ABC Australia
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC0rQyMlMXlN_TjobF0Us77
+#EXTINF:-1 xui-id="132934" tvg-id="" tvg-name="ADI TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SHpACftuMvyUDHAZAzXv9TzwQ9AMl6YpbIvN5Ot_ADtA.png" group-title="TV Daerah",ADI TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCEhLM2DVzTtfLyk9hSLguw
+#EXTINF:-1 xui-id="129411" tvg-id="" tvg-name="Al Bahjah TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWe1nXBNESAADH9t4X2RMM8OM1wxBuQIfUPg59O9AIypdv3ERlq1XUY5rTEpSJCMtuA.png" group-title="Religi",Al Bahjah TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD_u2oVKIqfoVXkM-zsarB6
+#EXTINF:-1 xui-id="52878" tvg-id="aljazeeraenglish.id" tvg-name="Al Jazeera" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeZ6yPItsLD5UPyQA-OP9J4tb_2G73b_sm6MPB5d2N4-_QjzKndjhA-u7GN2KNk2XU.png" group-title="News",Al Jazeera
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAUUUBGI5Ft7tTUQotgm83A
+#EXTINF:-1 xui-id="133798" tvg-id="" tvg-name="Anhui TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SNhuBs8rKmIh6VlAFkQZl7liClqBvRR4JZjHZkIp4U1A.png" group-title="Movies",Anhui TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBUJAxqFAGvASpCe0lHPdZp
+#EXTINF:-1 xui-id="77" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-name="Animal Planet" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWc-uZhvFWE7l5ofdezrRApwqPJIBoU5haJQo9YU4Qna1kofvAw8XusKQnkyCreEVes.png" group-title="Education",Animal Planet
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCx4p478MdNQS5NF-GQx8Qn
+#EXTINF:-1 xui-id="47" tvg-id="AnimaxAsia.sg" tvg-name="Animax" tvg-logo="https://iptv.lancartech.co.id:443/images/7141e42e83db4781992fdaa321c36c68.png" group-title="Kids",Animax
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDQ9su6QoTbTY0Y74mBi5yY
+#EXTINF:-1 xui-id="51" tvg-id="AniPlus.th" tvg-name="Aniplus" tvg-logo="https://iptv.lancartech.co.id:443/images/ab6b215c430539b6a697baf1f336b9a3.png" group-title="Kids",Aniplus
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCsikkvXHgeHUcWaWSAZqE0
+
+#EXTINF:-1 xui-id="133886" tvg-id="" tvg-name="Arena 1 Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SLSxy5isn75MDJXzXUO-fheQ9DkzKukMQsvdffeUWZfc.png" group-title="VIP Sports 3",Arena 1 Premium
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAySTMXuWieSXEATo20lpwb
+#EXTINF:-1 xui-id="133887" tvg-id="" tvg-name="Arena 2 Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SSa-Sas3EuGswLqcn23BwD6wwD0O2M9lCI2kmCP4kGb4.png" group-title="VIP Sports 3",Arena 2 Premium
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD41cSdh5_TxXH1EWUTkIZP
+#EXTINF:-1 xui-id="133888" tvg-id="" tvg-name="Arena 3 Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sd3BByARIq65u6tXm0bUiaXTshl74guaeBwv94SSVAf4.png" group-title="VIP Sports 3",Arena 3 Premium
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCjyMzcAGCdY-wu4es4qI3S
+#EXTINF:-1 xui-id="52014" tvg-id="arirang.id" tvg-name="Arirang" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeJyZrpl3YBMoEydvyjjCs99UCnIR9DZ8qFhhlL7S4SOV0L2xFIpwKoyzvCXOx-zeA.png" group-title="Entertainment",Arirang
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBJd-FHhJY3xHOpqD-RlfM0
+#EXTINF:-1 xui-id="94" tvg-id="asianfoodchannel.id" tvg-name="Asia Food Network" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYiqVT4UnGIDHR9FJTTIz1p9douZvfznyWxPWKrR1kL8Bup_QXH1Q6unJ-fJBQ_6mJk.png" group-title="Entertainment",Asia Food Network
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC6UtZHuHFD7_1beRGz4PpS
+#EXTINF:-1 xui-id="53222" tvg-id="811" tvg-name="ASSP 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="VIP Sports 1",ASSP 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCUxmaVO9qWUpuKfDfgMX5i
+#EXTINF:-1 xui-id="53223" tvg-id="812" tvg-name="ASSP 2" tvg-logo="https://iptv.lancartech.co.id:443/images/a071056319cedd46e3e2ee3dbea1089c.png" group-title="VIP Sports 1",ASSP 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAxHSxjk8hJCwxejzsBjbG6
+#EXTINF:-1 xui-id="53224" tvg-id="813" tvg-name="ASSP 3" tvg-logo="https://iptv.lancartech.co.id:443/images/4e4598a34197ddcbb33b33471e07a30f.png" group-title="VIP Sports 1",ASSP 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAf_AOVH2xf7siPKiwObzZY
+#EXTINF:-1 xui-id="53225" tvg-id="814" tvg-name="ASSP 4" tvg-logo="https://iptv.lancartech.co.id:443/images/c024e2c0573bd0e4ef0af5cd9b45a6f1.png" group-title="VIP Sports 1",ASSP 4
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDIjGIkSPX-fJ3s7sM-qQZX
+#EXTINF:-1 xui-id="89977" tvg-id="815" tvg-name="ASSP 5" tvg-logo="https://iptv.lancartech.co.id:443/images/1a08bb9378fb821f52114b12c6f61dca.png" group-title="VIP Sports 1",ASSP 5
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDDy9uXRzv68N9YO2MChoAx
+#EXTINF:-1 xui-id="132977" tvg-id="103" tvg-name="Astro AOD 311" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Stjtvisu3DHhf8ukNDS5QhnLs61pMEZ01Qm0N80KnNnM.png" group-title="Malaysia",Astro AOD 311
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCGcHrNizZUnGuT9OrFkhig
+#EXTINF:-1 xui-id="133875" tvg-id="352" tvg-name="Astro AOD 352" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Stjtvisu3DHhf8ukNDS5QhqkGByRtGllcOHGVdUyEXyQ.png" group-title="Malaysia",Astro AOD 352
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCflRt9UreWBZijwrzbh2gD
+#EXTINF:-1 xui-id="54701" tvg-id="801" tvg-name="Astro Arena" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNrZxCsgvVNo2XsQZaczmz-zrGfgUdKV_qX_LvgRNNOddKA1IoaKdNUjrbTjd3l4Q.png" group-title="Sports",Astro Arena
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAE5uE3hDirPaj7cSYUeSdm
+#EXTINF:-1 xui-id="134123" tvg-id="802" tvg-name="Astro Arena 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SBLjgkr3Vc1g4rGmd7nqIJpeDrZCrKksnrtwBOKi2uCU.png" group-title="Sports",Astro Arena 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB2_jpC4Q8D8vQZXCcOHhAm
+#EXTINF:-1 xui-id="134010" tvg-id="113" tvg-name="Astro Aura" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SF_lkeSMrTkcR3-Fsm3cs-z1yhF1yEBHrnVxzj7ZpHYU.png" group-title="Malaysia",Astro Aura
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDyzE4xGPaKnr-oARA62DVA
+#EXTINF:-1 xui-id="130111" tvg-id="501" tvg-name="Astro Awani" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S4b07x4CEDU2hzc-aTUMoo3P0T06HVXPJa-JSGvGC4w0.png" group-title="Malaysia",Astro Awani
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB95DR7iJht2-2ixW_E3f5d
+#EXTINF:-1 xui-id="133838" tvg-id="" tvg-name="Astro Awesome" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S01duPS1-0XI925GJTOSGm5qCDWea2--cZdEAlMmDRec.png" group-title="Malaysia",Astro Awesome
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAr4lFqjAEqg7inW3AO_Qql
+#EXTINF:-1 xui-id="130121" tvg-id="404" tvg-name="Astro BOO" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SVF_AfesDn-hkNHdIzdiK_TXfBza4G9XBLiXe054JqHk.png" group-title="Malaysia",Astro BOO
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCxI9sJF8R2txd-LGeDccUj
+#EXTINF:-1 xui-id="130122" tvg-id="611" tvg-name="Astro Ceria" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S0K71AgWdUwzh7i3ZsovIoEtGgUsZ_0UlOQdgb88HAQY.png" group-title="Malaysia",Astro Ceria
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB6qd-tqnZvL3ooI_YnQ5r-
+#EXTINF:-1 xui-id="133843" tvg-id="824" tvg-name="Astro Cricket" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SYJF2fCk2C3em61xMLrarT0lNlCOlNIbrR9lMjNFzUgY.png" group-title="Malaysia",Astro Cricket
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBOQP9VTHMAP8NlrzyS2HDQ
+#EXTINF:-1 xui-id="130128" tvg-id="333" tvg-name="Astro Hua Hee Dai" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SOb5TX333vhh0YbIvsLulaO0t2i2CbrjXctXr6_PD6Zs.png" group-title="Malaysia",Astro Hua Hee Dai
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBFzw-EHqghJZPnRLN3nOft
+#EXTINF:-1 xui-id="130129" tvg-id="300" tvg-name="ASTRO iQIYI" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SjcXg4F1TxA8eWpUoqaLZyTEUxZI5E5Y8OOZDC6PHdxI.png" group-title="Malaysia",ASTRO iQIYI
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAV6FroiF5vHZHbxITdQhzE
+#EXTINF:-1 xui-id="133844" tvg-id="" tvg-name="Astro Moonbug" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SpLEyrnOSnEi4CJ7RZpUniVESmgw5SnsUajGu38BcQkw.png" group-title="Malaysia",Astro Moonbug
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDmVAvB96Snk5mVwuChsBDT
+#EXTINF:-1 xui-id="130130" tvg-id="106" tvg-name="Astro Oasis" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Ssoq2-9FmWQKzkeK2V34vxzeLDSwRTcw4yuSPNO21hEo.png" group-title="Malaysia",Astro Oasis
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC_Xu6Ee1tBembfiLxevh_0
+#EXTINF:-1 xui-id="133837" tvg-id="" tvg-name="Astro Okey" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S9JgIc49lBAlR7AQYGL036_3Ctz9iptPZBKB9jPcTDBw.png" group-title="Malaysia",Astro Okey
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD5cisZFMRcvyggA-qZPH4o
+#EXTINF:-1 xui-id="130124" tvg-id="105" tvg-name="Astro Prima" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SXefR832A56YKLAFHBCLb45sqYXlf7ek3oWM8EsjecfQ.png" group-title="Malaysia",Astro Prima
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDO3N2A7zqmn3PNOiQp84iQ
+#EXTINF:-1 xui-id="133834" tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S0XpGVlWXsxuJ5zpUa7FMaRDaYYyvP5XEhNMtprh25bk.png" group-title="Malaysia",Astro Ria
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCn40YyKDbZ8b3n3Twco_rz
+#EXTINF:-1 xui-id="130132" tvg-id="307" tvg-name="Astro Shuang Xing" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SAJFlzmRp_C9_bXKEmbxfHZESJB0AL4S7S1FhyQt8A6A.png" group-title="Malaysia",Astro Shuang Xing
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBzXvZAqZSKNbTxpQo5aOj6
+#EXTINF:-1 xui-id="130109" tvg-id="221" tvg-name="Astro Star Vijay" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SQM2niZcPG4b-3vAA73Q3uWl1oWCktjqQm6WIY3qKBCc.png" group-title="Malaysia",Astro Star Vijay
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCsUWU4cC_zUIQXAfv6zW-h
+#EXTINF:-1 xui-id="130133" tvg-id="612" tvg-name="Astro Ta-Daa!" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S1jdjhCmQieL88aIuspSvWtaphXlM71s6kKOBmJe_Rkk.png" group-title="Malaysia",Astro Ta-Daa!
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBo7tUkHkxIRdKV3JR7NI8z
+#EXTINF:-1 xui-id="130107" tvg-id="201" tvg-name="Astro Vaanavil" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SbgtSCJeMfvMeP_7FQd24HV-Pol6GbIB1SrAZmcGOTUY.png" group-title="Malaysia",Astro Vaanavil
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBXu-ANT8dDRzuXI5yItX58
+#EXTINF:-1 xui-id="130126" tvg-id="107" tvg-name="Astro Warna" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SYGvtsLnxFnD5tuiGPiI21cE28q3nxu_mBY5tfkIsZmE.png" group-title="Malaysia",Astro Warna
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCICtpFXRBP5wdfshc1MJKo
+#EXTINF:-1 xui-id="133836" tvg-id="304" tvg-name="Astro Xiao Tai Yang" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SXhvGFWuJDbisOt1kIrllXXIFNvLn5jRRgzwu1kriRHA.png" group-title="Malaysia",Astro Xiao Tai Yang
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCg02MRM3ufcEJhaNoNl37l
+#EXTINF:-1 xui-id="133876" tvg-id="" tvg-name="Astro Zee Tamil" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SPOtNkngySHaDZ8HqSWJXvZbAp0529KdwRT51x2AmLYg.png" group-title="Malaysia",Astro Zee Tamil
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAbNsiG9mziT3_UJ7TWh-Cn
+#EXTINF:-1 xui-id="38" tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq4_t_46j-A24CO9sEOHEQ-cA5ISbkm_nX2ETRUnFfJOPeR7QkDO7Ey5nNC0_3jTgNpA.png" group-title="Movies",AXN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD1htUz-GP8xWtPXt_cKWM2
+#EXTINF:-1 xui-id="87701" tvg-id="babytv.id" tvg-name="Baby TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeP0UIbzgQwAnoirvf_C-oM-bW1Zq4nYyjlkk4KCvPVy1AioEtyWLtqGYaoLRgsH6w.png" group-title="Kids",Baby TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDLaFCp73CrA_l4yGWO8Fli
+#EXTINF:-1 xui-id="132890" tvg-id="" tvg-name="Badar TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SCeTOQ6U_eXET_PDMjny1orm-b-pS0SlSQvaTm6hwiEI.png" group-title="TV Daerah",Badar TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAQoe9WwauQyvrNGvPjYPJO
+#EXTINF:-1 xui-id="87698" tvg-id="bbcearth.id" tvg-name="BBC Earth" tvg-logo="https://iptv.lancartech.co.id:443/images/e804ce8e649c00828d68a676f83a35e2.png" group-title="Education",BBC Earth
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC3VspkuPnEecOP-lh19XUg
+#EXTINF:-1 xui-id="93" tvg-id="bbcworldnews.id" tvg-name="BBC World News" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdqzuK8JxCA-VrghhCPslNJ0kgil11_busrJIDkkO7hDvneU57XCEF0nCmFrELuQII.png" group-title="News",BBC World News
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDnjBA_wQJoOhUlGhV2B8Zs
+#EXTINF:-1 xui-id="54421" tvg-id="" tvg-name="Bein Premium 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf-fIQNxqqiEy-X9Vd-3KboYmEjNaZx81xZ8YGzW2yP9wcGrWtv_TXWs84ksivUIuQ.png" group-title="Bein Group",Bein Premium 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCxh6a7Dp0ylI6DEFUgfYPJ
+#EXTINF:-1 xui-id="54422" tvg-id="" tvg-name="Bein Premium 2" tvg-logo="https://iptv.lancartech.co.id:443/images/fb8b7984b4bcc545a8f0fde681e5f8fe.png" group-title="Bein Group",Bein Premium 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBpjFIugNMEIYLlWVT5E6O1
+#EXTINF:-1 xui-id="54423" tvg-id="" tvg-name="Bein Premium 3" tvg-logo="https://iptv.lancartech.co.id:443/images/f021e77768691f218148fc0242b3d93d.png" group-title="Bein Group",Bein Premium 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCEimLThIl8zl0JgXkVHYOb
+#EXTINF:-1 xui-id="25" tvg-id="818" tvg-name="beIN Sports 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq48fqjxghI5sT0ALUh_usM3Qch41sfGHtMTkvhpyLLNhvLc8_--RHM1sI-zJbkIdQEg.png" group-title="Sports",beIN Sports 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAUNwdfkAithZLS0Lki_qvU
+#EXTINF:-1 xui-id="132905" tvg-id="BEINS1" tvg-name="Bein Sports 1 EN" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SkPqb9F-Z5mxOCjwR9pE9njV8dlJIZvVnQ4cSEqTTeiYu5OxMHVX-xwlc4IEL_PJm.png" group-title="Bein Group",Bein Sports 1 EN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB83E3VuiqvCFHH00vsJaT-
+#EXTINF:-1 xui-id="133892" tvg-id="BEINS1" tvg-name="BeIN Sports 1 FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiKJuaUcvmWPQhD00cTlB6QM.png" group-title="Bein Group",BeIN Sports 1 FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBCOKfddhCWQNrDhr2ddskC
+#EXTINF:-1 xui-id="132906" tvg-id="BEINSP2" tvg-name="Bein Sports 2 EN" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SkPqb9F-Z5mxOCjwR9pE9niDCKKJD77bpEv8EROTfaR2ARZR4Bty7LZRxE1mx8SJ9.png" group-title="Bein Group",Bein Sports 2 EN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCVtz2Ga2ALcKP-RIQZyab3
+#EXTINF:-1 xui-id="133893" tvg-id="BEINSP2" tvg-name="BeIN Sports 2 FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiEIGpcREEHeF-HUlrRlfv40.png" group-title="Bein Group",BeIN Sports 2 FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCyrolBZ0HxwD8vv_BoVpZJ
+#EXTINF:-1 xui-id="26" tvg-id="819" tvg-name="beIN Sports 3" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq4_VEh1KxKj2ftE8FIdzQuDC9rVWvQK5xKtDEqT5A6zwOBegytzg0r-B8fC7-qqUtuo.png" group-title="Sports",beIN Sports 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDLe3_1wego0RzG98FyLQGi
+#EXTINF:-1 xui-id="132907" tvg-id="BEINSP3" tvg-name="Bein Sports 3 EN" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SkPqb9F-Z5mxOCjwR9pE9nmpfFuHo9PCvPFqnB-YB6-GAA4oGcDgHf8A9dIFE9JE_.png" group-title="Bein Group",Bein Sports 3 EN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBPlW4zAvlb-uxg-GFRxoaN
+#EXTINF:-1 xui-id="133894" tvg-id="BEINSP3" tvg-name="BeIN Sports 3 FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiNUIHrJMhc7GvjB6BTbuz2g.png" group-title="Bein Group",BeIN Sports 3 FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBi23GKdf8wgW1Q7hrxsi6F
+#EXTINF:-1 xui-id="133898" tvg-id="BEINMX4" tvg-name="BeIN Sports 4 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiBcm938oHeVTsa46s8AZ3eU.png" group-title="Bein Group",BeIN Sports 4 MAX FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA3NKUbM6bgEIbQVWhQpFjb
+#EXTINF:-1 xui-id="133899" tvg-id="BEIN5" tvg-name="BeIN Sports 5 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiFRC669D8cL5ermubE7P3dQ.png" group-title="Bein Group",BeIN Sports 5 MAX FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCBdwum-LO5pYBfmriPIV6O
+#EXTINF:-1 xui-id="133900" tvg-id="BEIN6" tvg-name="BeIN Sports 6 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiOxQ0zVyoAqWm6mYSUUSkC0.png" group-title="Bein Group",BeIN Sports 6 MAX FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDn-yJH5ouyXj4dtsV4nn0X
+#EXTINF:-1 xui-id="133901" tvg-id="" tvg-name="BeIN Sports 7 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiOr_28KRW1WP4WFu0l9A_uU.png" group-title="Bein Group",BeIN Sports 7 MAX FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAbpNhTl15uko_p2JXkGc6L
+#EXTINF:-1 xui-id="133902" tvg-id="" tvg-name="BeIN Sports 8 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiKF29oxTg-dpB5-TmRwRI10.png" group-title="Bein Group",BeIN Sports 8 MAX FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXChKjZb7TETrHAzT0dTDFg3
+#EXTINF:-1 xui-id="133903" tvg-id="" tvg-name="BeIN Sports 9 MAX FR" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SdVMdtwRob6UqBZOYWkqoiBjTdne7QTrB3bPz-yCNL3Q.png" group-title="Bein Group",BeIN Sports 9 MAX FR
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBEtC30kd8UR797BhA2pzSs
+
+#EXTINF:-1 xui-id="132957" tvg-id="" tvg-name="BETV Bengkulu" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SZlxg7LHgZE3UYsWoqasN2quqXmFzsB6OVJHii0diy1g.png" group-title="TV Daerah",BETV Bengkulu
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCFAvCOfjut5itzDj4kzQDa
+#EXTINF:-1 xui-id="51989" tvg-id="bloomberg.id" tvg-name="Bloomberg" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcZuTMpuho3BHGlDlw2IUgnPlM4K5Fc0E9HAjMGyaN6khFQBWifAU_M8_mENoWBiEI.png" group-title="News",Bloomberg
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAhHQ_wDz3hmPNj2U-cyGp-
+#EXTINF:-1 xui-id="133792" tvg-id="" tvg-name="BN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S72Hs6lizCNQLlZYt0ODgPoFzzG4Ux_Opg2DmPMGmCFs.png" group-title="Local",BN Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA-ffcFAJNQ8UsbpsmX8CFg
+#EXTINF:-1 xui-id="127844" tvg-id="BoomerangSoutheastAsia.us" tvg-name="Boomerang" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcBV4mjNB5A7NMZVenWPS8vSW4xaFFX5tPm8lIJsDwF9ECutOJt8Qh7ZYLW8v1cvSA.png" group-title="Kids",Boomerang
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCRp-dMEys4JRgZoxI5cjnx
+#EXTINF:-1 xui-id="86856" tvg-id="BTSP1HD" tvg-name="BT Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcDavUZOuXeM2LW1bm4aFqOzls62zzI0xfEnGqE-VbjlEjDC9hnWT5pAVb5lKNB-f0.png" group-title="VIP Sports 1",BT Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBJzsfP-THtMWXKhdkeYjTh
+#EXTINF:-1 xui-id="86857" tvg-id="BTSP2HD" tvg-name="BT Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNBPuuqhNR0k0GPK10Fw1UKX1xFzTgqhjbxuKehGW3JFoJQkF_4A87mzTZT2A7gAg.png" group-title="VIP Sports 1",BT Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCcXoP7fKaO_6Bcnt2-pDdQ
+#EXTINF:-1 xui-id="86858" tvg-id="BTSP3HD" tvg-name="BT Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBP_VapV6wPBPKOJpGHDBOuj41UITJ5SdC3uXN3clKxGFI49egSfyr9HMm5RlLJMo.png" group-title="VIP Sports 1",BT Sport 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAQg-FnZLtVci_9R62n_k_E
+#EXTINF:-1 xui-id="133908" tvg-id="" tvg-name="Canal Plus Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SeOAzkcwuUJTfiVKcuAceF8I6jaucajDx173oNBcIHKs.png" group-title="VIP Sports 3",Canal Plus Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBX1Rj3N9koPrSJCQOjDOoc
+#EXTINF:-1 xui-id="133907" tvg-id="" tvg-name="Canal Plus Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SeOAzkcwuUJTfiVKcuAceF_byDB-km2yNjVA78vtIVf8.png" group-title="VIP Sports 3",Canal Plus Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBdE68cjddDLrROF_KfFnnT
+#EXTINF:-1 xui-id="81" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdEFWrN6BLcqBJCOlGrfFEPLofYODpOG5GCUYF8kkZipvLPpJSx5iehfTkMkfP841M.png" group-title="Kids",Cartoon Network
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDS5KxpHb4Tf_xERvWSjL2F
+#EXTINF:-1 xui-id="127843" tvg-id="CBeebiesAsia.uk" tvg-name="Cbeebies" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcCt3mi3Ws_VRQS2WkerdCrzFnHRAwD4NX2PI0BVzJ2xWylLM-rRuRujv95w1w_2TA.png" group-title="Kids",Cbeebies
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD1Gmqp6KnKlZTwIyAeNQ1S
+#EXTINF:-1 xui-id="90006" tvg-id="ccm.id" tvg-name="Celestial Classic Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/393e434c3d43acf496b8b82ac0794f46.png" group-title="Movies",Celestial Classic Movies
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCgu6C_Q2BZvrXUoNJzwVwq
+#EXTINF:-1 xui-id="21" tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfjM-LcqDB2PtQbCoVCXVK3bGEgzHZ4GcwGf1DSgBrmaFuT0nKkJJKR0GMBRTCWJ5s.png" group-title="Movies",Celestial Movies
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBh68_paMBj3joULB1XqO-x
+#EXTINF:-1 xui-id="129393" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SDM_Stp5b0J_IfklzQUtV4A.png" group-title="News",CGTN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBvatwNZRZ0xMRC8XBsx5hp
+#EXTINF:-1 xui-id="134126" tvg-id="" tvg-name="Champion TV 5" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SriY5SIrNcdnDWL9X5IcFTOzA3itZC2KKJlHoeaDAjPU.png" group-title="Sports",Champion TV 5
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA73kn7kva0Ml9sya6EGugK
+#EXTINF:-1 xui-id="134124" tvg-id="UCL1" tvg-name="Champion WC 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sl-L9sFLP-xo1x-ArPawHd6VbIeIEWeJaF61vNLYiYes.png" group-title="Sports",Champion WC 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB1IG-r6jAspYcRMiAZyIST
+#EXTINF:-1 xui-id="134125" tvg-id="UCL2" tvg-name="Champion WC 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sl-L9sFLP-xo1x-ArPawHd4IamOrBabUZSVCTTvBXmKk.png" group-title="Sports",Champion WC 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDCivW7y0duurfFNGCZ-NfZ
+#EXTINF:-1 xui-id="133840" tvg-id="CH82" tvg-name="Channel 8" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S8xjRC_-4l3RC3gK0_cnCfK_re4GFcqGc2HlBgQkeMGY.png" group-title="Singapore",Channel 8
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDT-CJWgA-KjgkhZW4AV3Gw
+#EXTINF:-1 xui-id="117976" tvg-id="channelnewsasia.id" tvg-name="Channel News Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcTGrW1tIdSjNp8w7GEpceOEpWKz6etZC_18IHAOkgBtTqMI0zyMYCE2BrzVLAAEE0.png" group-title="News",Channel News Asia
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDej7SnYTO2AgKb5hOT1H-u
+#EXTINF:-1 xui-id="133839" tvg-id="" tvg-name="Channel U" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SgIyW7iB7SxgqdlgiyCRL3bUvYy3HYm0XU4ay5zVQQ20.png" group-title="Singapore",Channel U
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAmi22IuVEjeQIZwThL-5Sq
+#EXTINF:-1 xui-id="49" tvg-id="cinemaworld.id" tvg-name="Cinema World" tvg-logo="https://iptv.lancartech.co.id:443/images/984e09aff2807101a5af3ca7f71128dd.png" group-title="Movies",Cinema World
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC4Jhj2aDDlc3H4COErcbOs
+#EXTINF:-1 xui-id="16851" tvg-id="cinemaxhd.id" tvg-name="Cinemax" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWc2JMNPIkwi_01zL2_5_--YRKKEFu4sp75z354BSZmpcCBcChjMzO-BsLGUJcejryU.png" group-title="Movies",Cinemax
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBq_1RwN5h_FOmSGHFUTYIi
+#EXTINF:-1 xui-id="88903" tvg-id="CNBC" tvg-name="CNBC Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYir1YV22KznyAxP0L_zDD5rq_w3_fMEsE_PSoTkk0s2qWX9517JAsD1yealWKx5uFo.png" group-title="News",CNBC Asia
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAfGbuIooQSZGVuRrL-4RdS
+#EXTINF:-1 xui-id="13" tvg-id="cnbc.id" tvg-name="CNBC Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfLPeN-YTrqAdfOMLZLC0Pjjc-a-vVVRFw2ruN5t_JhkAnsPZjPy6ySOrcNo8BMWI0.png" group-title="Local",CNBC Indonesia
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBAH8yzywHL-BgGa6F_4OUb
+#EXTINF:-1 xui-id="15" tvg-id="cnninternational.id" tvg-name="CNN Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWctVbiWYZkrICI6u80t51ZMUCgciERxF-JrPf32m_oRgpn1vc8phYYtZBsPS2BYxq4.png" group-title="Local",CNN Indonesia
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAt-bwMG1l_gilVljATPYj1
+#EXTINF:-1 xui-id="55999" tvg-id="cnninternational.id" tvg-name="CNN International" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq4-8FA0v3UTla14r1BfvWE4hIPkoiLZmxXQ5wNxJTvF5un3eITKILRWiv-DpsNY-X6s.png" group-title="News",CNN International
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDBz6WQ8JeOXeLJEvrBR8RO
+#EXTINF:-1 xui-id="133878" tvg-id="116" tvg-name="Colors Hindi" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S2U3lewlGQEbNb9TYy7qxZdXyJU7jKg8DWgYRRoLIPbw.png" group-title="Malaysia",Colors Hindi
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC7Bo7k3pgdgKMyc7boh3V7
+#EXTINF:-1 xui-id="133877" tvg-id="222" tvg-name="Colors Tamil" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STuaJjp0niCv0JZUCxSZ8fA3ljXQzNn1gsW9T3L0lpCY.png" group-title="Malaysia",Colors Tamil
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAY_9bJWRbThhVXqIazuFk4
+#EXTINF:-1 xui-id="133879" tvg-id="crimeinvestigation.id" tvg-name="Crime & Investigation" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S0EJST3j6DavEwtyQciXWett9WftxFlUSIePx3TkrkxQ.png" group-title="Entertainment",Crime & Investigation
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDVCRozWrume8bVoCCvjyEy
+#EXTINF:-1 xui-id="134467" tvg-id="" tvg-name="Dazn 1" tvg-logo="" group-title="DaZN",Dazn 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD7wrUXWOj97AIHlRULwXB4
+#EXTINF:-1 xui-id="134468" tvg-id="" tvg-name="Dazn 2" tvg-logo="" group-title="DaZN",Dazn 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXANDNy9JLeEqGyGyQ7DB4XT
+#EXTINF:-1 xui-id="134469" tvg-id="" tvg-name="Dazn 3" tvg-logo="" group-title="DaZN",Dazn 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD28KDWzdYiNlp63H1840Ti
+#EXTINF:-1 xui-id="134470" tvg-id="" tvg-name="Dazn 4" tvg-logo="" group-title="DaZN",Dazn 4
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA0N1b1NQLnuszSs071y5ZG
+#EXTINF:-1 xui-id="134466" tvg-id="" tvg-name="Dazn F1" tvg-logo="" group-title="DaZN",Dazn F1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAT2YLiujLXiGEWPh3A0Moj
+#EXTINF:-1 xui-id="133914" tvg-id="" tvg-name="Digi Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STzGivgJiTABpxk8TSsZsdx8hDO5vjd87XW8n4dqCINE.png" group-title="VIP Sports 3",Digi Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBQHba2z4usz-1PV1AqgXC_
+#EXTINF:-1 xui-id="133915" tvg-id="" tvg-name="Digi Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STzGivgJiTABpxk8TSsZsd3cWAMNJlLW64QF9MAUXtUQ.png" group-title="VIP Sports 3",Digi Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAJ5h4MpCa4J07FPzDlYW_G
+#EXTINF:-1 xui-id="133916" tvg-id="" tvg-name="Digi Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STzGivgJiTABpxk8TSsZsdz2w9zdPvbxcOKtlXJemfMM.png" group-title="VIP Sports 3",Digi Sport 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBdIMzb91sOgjAb_gp2od8S
+#EXTINF:-1 xui-id="133917" tvg-id="" tvg-name="Digi Sport 4" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STzGivgJiTABpxk8TSsZsd476kVgAWkCzRRjV1JLdc-k.png" group-title="VIP Sports 3",Digi Sport 4
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD8zZ5ED6_8qIhgcaAIogTM
+#EXTINF:-1 xui-id="90" tvg-id="AMRDSCA" tvg-name="Discovery Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdA55Yiq6GKlLCAuc5-Qi_pzbubNrx9x0mBA-uz-dNDccJgCzKNOdzlXEeu_DOoHjk.png" group-title="Education",Discovery Asia
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAXHZhv3D79r8RNz34zLhGL
+#EXTINF:-1 xui-id="67" tvg-id="discoverychannel.id" tvg-name="Discovery Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfEaKE3HyQtuCphikZSyWq5h3PwGh3NR7v3BGjk5mAzrdk_1HfpamlQ9Jf_UoS924g.png" group-title="Education",Discovery Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDmmYcOnCSVXg9ObOxMDaSJ
+#EXTINF:-1 xui-id="52882" tvg-id="DUBSP" tvg-name="Dubai Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8K6tHQfYLJ1gKVkaid8kBMwnVs_n9bvAcNFkdHdkPGaxtp-gw7w7fDuMObS-pKCY8.png" group-title="Sports",Dubai Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDWsYBkoORxz7pIuw_ZXEV7
+#EXTINF:-1 xui-id="52883" tvg-id="DUBSPT" tvg-name="Dubai Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfZboOywfldjoTYvYIUuVrohW8Y4VgS5LMBByHqzeTI2KoqLNfpMvReSEpTl7QZxJo.png" group-title="Sports",Dubai Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDMA1PkCArnpHHmURkLF5Xe
+#EXTINF:-1 xui-id="133806" tvg-id="dw.id" tvg-name="DW" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S03Djezl_WtEGFP28wnjdkbauAHr2ds8UIcuOKpquJxQ.png" group-title="News",DW
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAlzxtB_eBihdSoTFiOCLiu
+#EXTINF:-1 xui-id="133817" tvg-id="ELEVEN" tvg-name="Eleven Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SzjYiXsWB93CW2sMHhDuGCnoC0BYEmglegL4jNQKn0Uc.png" group-title="VIP Sports 2",Eleven Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC7McHNKKHyJNIuqcAfMBJa
+#EXTINF:-1 xui-id="133818" tvg-id="ELEVSP" tvg-name="Eleven Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SzjYiXsWB93CW2sMHhDuGCnuQ0FFBWUjznFcEvUaRd5E.png" group-title="VIP Sports 2",Eleven Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXADHMpnGh_o-xzvGfHQzPUo
+#EXTINF:-1 xui-id="134471" tvg-id="" tvg-name="EPL - Live Match 1" tvg-logo="" group-title="LIVE EVENT",EPL - Live Match 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC_Un6ZKn51fdELaJpl0ktK
+#EXTINF:-1 xui-id="134472" tvg-id="" tvg-name="EPL - Live Match 2" tvg-logo="" group-title="LIVE EVENT",EPL - Live Match 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCyyPhnrrTwTkYpJj8NJ6Nf
+#EXTINF:-1 xui-id="87721" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://iptv.lancartech.co.id:443/images/d36c6cc8684ff8f2a6e2ddc6c8f48a26.png" group-title="VIP Sports 1",ESPN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBSi0kgrgqPz0Ov3XcYpb7u
+#EXTINF:-1 xui-id="133807" tvg-id="euronews.id" tvg-name="Euronews" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SlxX3zM4UBoRRIBUpcaNIR2Wo_6PDB9FXlzPl3ngQk7c.png" group-title="News",Euronews
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCcSgDhVuYjcbV9ijn_Zmhd
+#EXTINF:-1 xui-id="86870" tvg-id="ESINT1" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgZNwM_4VC7CcE8zgBrbZmAr2Jz9XSEb1fJTXcUN_7FOxLaJ1RKFHQ39TbfRujKddQ.png" group-title="VIP Sports 1",Eurosport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBD_mBxjbmgj3T7E8iSjRrW
+#EXTINF:-1 xui-id="86871" tvg-id="E2NOR" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfpLSJ7sRnx9h4xDybTByLRSDxpPrwVWGGG_fGqgiARtyiMd-k61eqqFDHTnFswIMM.png" group-title="VIP Sports 1",Eurosport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDnP7CbhGHqmHoxhNUSORRG
+#EXTINF:-1 xui-id="133805" tvg-id="EWTNMC" tvg-name="EWTN" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SG1RKWxo7Noc64qBBHFXgI5gQZeJTMkbyQED3ZsuG_2w.png" group-title="Movies",EWTN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDp8lbqXOwa3fjDJwyOiEEQ
+#EXTINF:-1 xui-id="133913" tvg-id="EXTRSP" tvg-name="Extreme Sports Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sb-21Yy3rZV2ON7drFtkUMhdUAo9WvR6yRujK0XQCWAU.png" group-title="VIP Sports 3",Extreme Sports Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBpK9scnhKe1fqTkAbfHGvD
+#EXTINF:-1 xui-id="72" tvg-id="FashionTVAsia.fr" tvg-name="Fashion TV" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez83f8bp379xNWe3SW_j_1NtogQfrittPZ3KfYo8Tgs7L-aKWitNU3DFfR9wEgh_iU4.png" group-title="Entertainment",Fashion TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDmQAYFPTfI-5SsSBFnxaEK
+#EXTINF:-1 xui-id="133731" tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S-FA3qJ7vh_8m2mgnFs5uLtzMvq_ef6_aKLDxEkfsWbg.png" group-title="Entertainment",Fashion TV 4K
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDENlK2emxWZD-VXjUhCX0B
+#EXTINF:-1 xui-id="73" tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secret" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez_0AGJHj3dlMtlVTZ4KOT_0QJohTb9fAkBQVjql5pelVAP-KoLhP72n4U9FZBNTp9A.png" group-title="Entertainment",Fashion TV Midnight Secret
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBiGDXNj_7IIZi4EtODEYzJ
+#EXTINF:-1 xui-id="90039" tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-logo="https://iptv.lancartech.co.id:443/images/120532c7412bc9b4be2d0003604423a0.png" group-title="Sports",Fight Sports
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDa5X90hIuv965xw5K51JDi
+#EXTINF:-1 xui-id="23" tvg-id="fmn.id" tvg-name="FMN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SrgkwfbjkD4u1xso0tVxDW061VtREA-zy0odBYaQEvQM.png" group-title="Movies",FMN Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBXD1NKzDS-eno_hpJ71oSq
+#EXTINF:-1 xui-id="55816" tvg-id="foxnews.id" tvg-name="Fox News" tvg-logo="https://iptv.lancartech.co.id:443/images/d4a3d585962fd0413dbc210fefad73e9.png" group-title="News",Fox News
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBElOM67-VIDX2oEIRnhXDS
+#EXTINF:-1 xui-id="133808" tvg-id="france24english.id" tvg-name="France24" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SUHa4_py-bwwClLeXKpMSQpgUH2yzHH269ZIY9ZjcBp4.png" group-title="News",France24
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAB8bqJANnWuUNZiybOvi-u
+#EXTINF:-1 xui-id="87705" tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq484PGtPXLsG31Rm6wmBykjkns-WiFOg9A6bMf-fGNI4WWO2jdfOIj8KdLqEYUidTC0.png" group-title="Movies",Galaxy
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDoVAoJjXyNXqZHbmGRdw06
+#EXTINF:-1 xui-id="87706" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq49fQ26w2p2qTJWCzaUGENisVfp9_2ZBp9id9dTonMFyIxXNFW-9w_sHpdVGsLm9tz4.png" group-title="Movies",Galaxy Premium
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDBzqNiqu_nhsBkgpkNGDkH
+#EXTINF:-1 xui-id="133848" tvg-id="" tvg-name="Garvis TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SXad414nsBizqVLxU1FFd-vKzRaby0PWjHBg7LJciIgo.png" group-title="Local",Garvis TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA5ivRkjfy3PltJRou_FQpr
+#EXTINF:-1 xui-id="39" tvg-id="ANTV.id" tvg-name="Gem" tvg-logo="https://iptv.lancartech.co.id:443/images/9c62eaba6190863de8e9d572392ae49d.png" group-title="Entertainment",Gem
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBilmZPcVcTLNec3GVdCAmO
+#EXTINF:-1 xui-id="132939" tvg-id="" tvg-name="GPR TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SXkE-MqVLnD21shIO0ucjAL5gpeFRoRo3LY0Bp5kP69U.png" group-title="TV Daerah",GPR TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDGoI_XM3eDI9Vw_K3ZzJ-d
+#EXTINF:-1 xui-id="54418" tvg-id="globaltv.id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/86bc07bd0683c37fba03f5ae2d0ec791.png" group-title="Local",GTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDg9dck6yQKkSJ8hVxTXeSD
+#EXTINF:-1 xui-id="56" tvg-id="hbo.id" tvg-name="HBO" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SHovAhSb8FVJ2S8SQPwHphQ.png" group-title="Movies",HBO
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDo3d-4usCtdR9yFk2xyZkE
+#EXTINF:-1 xui-id="75" tvg-id="hbofamilyhd.id" tvg-name="HBO Family" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcSZs_CAT5eFQ7Jskg0kNrpIcdra-1f3JTcEtHXjVj_UVdBb5fj1QxCmoYPzFsaqw4.png" group-title="Movies",HBO Family
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA1wuqTsagNWdXYYkkX7SNo
+#EXTINF:-1 xui-id="92" tvg-id="hbohitshd.id" tvg-name="HBO Hits" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdFx4kV2Ex44BUusCbRqQcCTspZavEOhA5mQAa6Ne0OUCEZs4Zr4Jf2t0tXsEfZ4ng.png" group-title="Movies",HBO Hits
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDeK0FJ6JiQrFVXi03_Me6k
+#EXTINF:-1 xui-id="28656" tvg-id="hbosignaturehd.id" tvg-name="HBO Signature" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdmIFlBaq7m4xg-lEbbHggyNV8Sju8VsIGv-Ick1GRqK1dSm6NBB-7BOSxCy9QbGWE.png" group-title="Movies",HBO Signature
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBo9T9SArabjIN7sfV99XBs
+#EXTINF:-1 xui-id="64" tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWehck5BUlXftnHLIsae6DMVZ8A1yDmZ4RZlU1BU1NN7EruwYY-58us_k91vs5VhGIk.png" group-title="Entertainment",HGTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCl3iP3jbGeVUxA0Bqiq3dB
+#EXTINF:-1 xui-id="71" tvg-id="history.id" tvg-name="History" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeiS2-7rZKvd48Fh3ucBcqZETGWjyQQbRN7fc9jjb4f1nf8IEbB1ZcIbtkQwKA4NnU.png" group-title="Education",History
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCuoCZlAaYXYvdua98eSH9P
+#EXTINF:-1 xui-id="43" tvg-id="hits.id" tvg-name="HITS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcNUPNfSWPkzbxXNyCS5wYL9_iguumSEG0q65bPpXw5Zcszub8UTgzsgrwCU5HrGdY.png" group-title="Movies",HITS
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC01hvKv49k6o2yJxJ29hY_
+#EXTINF:-1 xui-id="2911" tvg-id="hitsmovies.id" tvg-name="HITS Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcnVvb8pdYB_6ffQILuRSIUHQmLtO_FRRO8zcnxbOPvbSZBEZzpbxYCoaMRxVdYZy8.png" group-title="Movies",HITS Movies
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDTyiQ5Mny4KXeywiKdVZtL
+#EXTINF:-1 xui-id="132940" tvg-id="" tvg-name="Humabetang TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SyYoT7xI_JKvYZlhFlVpGUE5qNXFA0vNECfHdUkDLbJ0.png" group-title="TV Daerah",Humabetang TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCsTbr9Y-j1zqvb043_KWes
+#EXTINF:-1 xui-id="133799" tvg-id="HUNAN" tvg-name="Hunan TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SgbhUlwwR1vBarCKZiwV5NG3Dei6is-loySG_mFSKX3A.png" group-title="Movies",Hunan TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBUfeMf87i-woMj7CGUdJIc
+#EXTINF:-1 xui-id="133849" tvg-id="ISSUE" tvg-name="I Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S6pSOVCfs9oqOYkfMoF38y4aMsmH4wYvz3gOJvA-4s3U.png" group-title="Local",I Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDYGzuc37dtC-pKfaDv6kfh
+#EXTINF:-1 xui-id="8" tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa03qYPU_GKXmJtGbUK3epHpdsIqJ-Q-BdYgHPe7ku2f2zU1PE_qaFWW3y_Zs_jdWb5A.png" group-title="Local",Indosiar
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDp7rPlbq4_hnQDPaL76T7T
+#EXTINF:-1 xui-id="129417" tvg-id="inews.id" tvg-name="iNews" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdG8b9MDD1UcH5ZAiuCJlmeGBbNsrOFMPPKYasiiYXgq9m1Xobh2UVn5k9MKXh0eyc.png" group-title="Local",iNews
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXATuzuaP4RS7VQGjXEEISpH
+#EXTINF:-1 xui-id="132941" tvg-id="" tvg-name="JawaPos TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SFjMKOews6GqLXXGHrqcGvZ2S2gaLwWF3TjUmKfCIYnU.png" group-title="TV Daerah",JawaPos TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCDstqjopqHE18phUvQUtVg
+#EXTINF:-1 xui-id="133800" tvg-id="JIG" tvg-name="Jiangsu TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sn8daLeRJtzMwbxJ6wJ1qqTkfDjbNMGA02wCdoAy-agE.png" group-title="Movies",Jiangsu TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA64_a_1J13kQ7rXvGSVbAa
+#EXTINF:-1 xui-id="132961" tvg-id="" tvg-name="JITV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SK0YQx4wQaelfeEbGUhb7XFYEmrbx-1ctanUhBbfswnQ.png" group-title="TV Daerah",JITV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDGywYJkVD6nXZ8qgmTZG4B
+#EXTINF:-1 xui-id="130048" tvg-id="JakTV.id" tvg-name="JTV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SUAbZ0Fb0Hqci8zVT_0ryww.png" group-title="Local",JTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBGWdVY3K_ksq5D-lHbUSi-
+#EXTINF:-1 xui-id="2912" tvg-id="VisionPrime.id" tvg-name="K+" tvg-logo="https://iptv.lancartech.co.id:443/images/a7c64e04b7c8157af07448559bf1598d.png" group-title="Movies",K+
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBJLHfvYJ0JFAEhtefcLVob
+#EXTINF:-1 xui-id="130066" tvg-id="KBSDrama.kr" tvg-name="KBS drama" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S7LisiBhr3E7MGkxkgArLDi7mjrCaHIYVfUjO9GJl27o.png" group-title="Korea",KBS drama
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXArXKiJebV9bK_9LI9nmUeY
+#EXTINF:-1 xui-id="130067" tvg-id="KBSJoy.kr" tvg-name="KBS JOY" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SpmuHWbMZxCw7GH55MLDe7A.png" group-title="Korea",KBS JOY
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA-FNuGcTofHAAHMUXtrDr3
+#EXTINF:-1 xui-id="130070" tvg-id="KBSLife.kr" tvg-name="KBS Kids" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SuSP5rgJ4zFyXw5dwK2EWBQ.png" group-title="Korea",KBS Kids
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXACnTELTDRHF5kRcUdJCe-l
+#EXTINF:-1 xui-id="130068" tvg-id="KBSStory.kr" tvg-name="KBS N" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sco0TBw3czOMz1FdRoOoNPQ.png" group-title="Korea",KBS N
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA6z11tiZEEf1W2IrmLkFic
+#EXTINF:-1 xui-id="130069" tvg-id="Anibox.kr" tvg-name="KBS W" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SYx0r9CW_IRygR-05MJp1ZQ.png" group-title="Korea",KBS W
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC3YmU_thkTOkR6B3dRvMaq
+#EXTINF:-1 xui-id="21661" tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYj3dvgKjt5SSgyCgt6BxWWcCQq_7qSFYt74ingNV0tWcBKhJBJUDf_cytEWusA0-ZA.png" group-title="Entertainment",KBS World
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB4L85s6xJWQWFB7PC1dZTy
+#EXTINF:-1 xui-id="87702" tvg-id="Horee.id" tvg-name="Kids TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SnDbTYmr44U4tUVOVqc-M9qRITCYMsKgPSzF1RYt3VP4.png" group-title="Kids",Kids TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBSJLpJbjNHMQm-SO6LcEIb
+#EXTINF:-1 xui-id="48" tvg-id="kix.id" tvg-name="KiX" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfdfCQ9Hq4vP2-lxdTOXVOxnOA4my6Cvb67kszeGD2IztuoBEKQX4UQjm3tn7KudF0.png" group-title="Movies",KiX
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDJnPbkE5dv0RC5euhqX_wK
+#EXTINF:-1 xui-id="14" tvg-id="kompastv.id" tvg-name="Kompas TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcSJtHIzTJOgr1uB8JzjdWmFFUawhypjRd4pt2z_3nxqD9vEAgrltnQQDD3g5XbGwo.png" group-title="Local",Kompas TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDPkcUozOeMH1XT2KsJu9Tl
+#EXTINF:-1 xui-id="132929" tvg-id="" tvg-name="Lancar 24/7 Boruto: Naruto Next Generations" 
+#EXTINF:-1 xui-id="16748" tvg-id="LifetimeAsia.us" tvg-name="Lifetime" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8_X_nAL1oncqjTXIvWwV5GOzic2ddURxVqxvL9yg0rsaZ_lyUnJ5nKlVBbRAzjQU0.png" group-title="Entertainment",Lifetime
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCteF5iQmT_7ld-6eEt37-t
+#EXTINF:-1 xui-id="52017" tvg-id="LONAPNG" tvg-name="Love Nature" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcOsp9AQiNnrLqqjDpFQm874zFC03NsUsLOcz8WvxxKGrgyGxzCwOwP-kx1uBB9Ev0.png" group-title="Education",Love Nature
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAJC50fQFbThnppIl30Eu_r
+#EXTINF:-1 xui-id="132944" tvg-id="" tvg-name="Madu TV - Blitar" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SFieQHqgZcsqy339w0qBe-WGf1sYvk5RCe98CX0pyxkc.png" group-title="TV Daerah",Madu TV - Blitar
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDYzFZQUSbFK_bpH83i0c97
+#EXTINF:-1 xui-id="129418" tvg-id="MagnaChannel.id" tvg-name="Magna TV" tvg-logo="https://iptv.lancartech.co.id:443/images/5ded91fddc9a777b4958242b722e4164.png" group-title="Local",Magna TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBOAlo9rInZEUIVxxSAiupu
+#EXTINF:-1 xui-id="129413" tvg-id="" tvg-name="Mekkah TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdLiC0JTnyuRaTxbnGMzwYFiqyHPqHnUegfNLHabE8BoHZA01d6ZVQwgp9crBRILnY.png" group-title="Religi",Mekkah TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBYk5h2nmzTmMz0kkkDNfF0
+#EXTINF:-1 xui-id="132900" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SBYhRjRo6tmfU6RZ7mwvT6xD9QlgVI55WRfwTnV-1q58.png" group-title="Local",Mentari TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBiThMbf-Sa00hxdt8kpEUy
+#EXTINF:-1 xui-id="11" tvg-id="metrotv.id" tvg-name="Metro TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfERq-XGJUAbYTA0JS9ukNrPotIZ77HYl2OtRxOB7clFftgRDhbZAednqdmD2sSj10.png" group-title="Local",Metro TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDTH9Ml_SjtH5mc95OvB-hw
+#EXTINF:-1 xui-id="134443" tvg-id="" tvg-name="MeWatch Live 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SicynTyQ6ffVIcsl0lO8B-7-WH-SLeUjUxBEK1f77dKU.png" group-title="Singapore",MeWatch Live 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDAge8nCOkSvcnZERzKV0sw
+#EXTINF:-1 xui-id="134444" tvg-id="" tvg-name="MeWatch Live 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SicynTyQ6ffVIcsl0lO8B-_Ok5-yTEGCisNoWTtuUqaU.png" group-title="Singapore",MeWatch Live 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB0gh9qesOaQ4DqxS4a8agT
+#EXTINF:-1 xui-id="21606" tvg-id="ZMHDBR" tvg-name="Miaomi" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SfNqgRdOK6lA8JKqAUuevesv7FTGUe2vxhWySXlJCNVE.png" group-title="Kids",Miaomi
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCl_qA-63YDj7MngpBoqgUj
+#EXTINF:-1 xui-id="54425" tvg-id="mnctv.id" tvg-name="MNC" tvg-logo="https://iptv.lancartech.co.id:443/images/dade5028e41ad98b4ad6d35ac30be46a.png" group-title="Local",MNC
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAvoYoyWETMc5B_KE23AzVz
+#EXTINF:-1 xui-id="132876" tvg-id="MNCSports.id" tvg-name="MNC Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Syq6Alf6lLoeHADcKcCxRoftXSsWQUc1pOBSnTx2sIyI.png" group-title="Sports",MNC Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXADkLpKU6MMnABOFYEa6JXQ
+#EXTINF:-1 xui-id="132877" tvg-id="MNCSports2.id" tvg-name="MNC Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Syq6Alf6lLoeHADcKcCxRoVk78xcF7fyE5Ov93PpM7NA.png" group-title="Sports",MNC Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDckcZ8dmKYg4DPvSb5Ebm7
+#EXTINF:-1 xui-id="132878" tvg-id="MNCSports3.id" tvg-name="MNC Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Syq6Alf6lLoeHADcKcCxRoUE2rIdt6WxKL5l2dzIkz8Q.png" group-title="Sports",MNC Sport 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBJukqkAos1kVAGEgGT9CW5
+#EXTINF:-1 xui-id="129419" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://iptv.lancartech.co.id:443/images/5e_SO5CvkUfCpWPw6bn4elwsjjjZ211oI5OWXFbz6mTRR-HNWRHcnN7mRweDTdY4.png" group-title="Local",Moji
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBoHLXbe4mwJWNgqivsJZVg
+#EXTINF:-1 xui-id="133847" tvg-id="" tvg-name="MQTV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S6W9-fOrryHqtzSays5wWtARfkL1sXpvNRPuL9efSWOA.png" group-title="Local",MQTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCwydZFdecuJ0T9JbOzGqII
+#EXTINF:-1 xui-id="88" tvg-id="mtvlivehd.id" tvg-name="MTV" tvg-logo="https://iptv.lancartech.co.id:443/images/c77bf71e87cfb762ef7cccefcb42f317.png" group-title="Music",MTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDim3vUi_ZymB6tXBYU6BmW
+#EXTINF:-1 xui-id="132872" tvg-id="MTVMSUK" tvg-name="MTV Music" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S24oajGsGJmMNMjFPcVImS_R51Sn-e2O8VMPwxz5PaQ8.png" group-title="Music",MTV Music
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDF06djbo7ZZhAtJgScINoB
+#EXTINF:-1 xui-id="129412" tvg-id="" tvg-name="Muadz TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWetTsjFR7CsCVnHYDyH4ojDegWVOs7KosN3z7MYpB9swioIfiJz2ipECdVv5ClFrRY.png" group-title="Religi",Muadz TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBRGdM8liCGIgaSMTG6fiBs
+#EXTINF:-1 xui-id="133794" tvg-id="MUSICTV" tvg-name="Music TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SZvRip1Z527JQbQMpg0kn8HLjOM4PdSilgHhmhE5EQDg.png" group-title="Music",Music TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAN18keNY1SPEMv1Gysl19c
+#EXTINF:-1 xui-id="132889" tvg-id="" tvg-name="Nabawi TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Soo8LVT-ANNQ0l2HjLGb6C_zotr5k97SMmR7tW9_y_1M.png" group-title="Religi",Nabawi TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA4eCuPKZQY7PVlf6xd4O7P
+#EXTINF:-1 xui-id="63" tvg-id="nationalgeographicwild.id" tvg-name="Nat Geo Wild" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcBkQ7QAVix5W13REEgW-WZ7ZIR5zy4XQgDbJ7LYuiMJHpUW2eLQUHiq16qFuw2nIY.png" group-title="Education",Nat Geo Wild
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAKYAKP8f75zOpoR-5EqRo8
+#EXTINF:-1 xui-id="66" tvg-id="nationalgeographicchannelhd.id" tvg-name="National Geographic" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq48C0wgiaSoKnmZK96Pv_6wrkxz6MDF7BViyiX5v_GiC-TwyOp1ho98GkqHpGHppOMs.png" group-title="Education",National Geographic
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD2fwv1-8hVahI23ruYlxL7
+#EXTINF:-1 xui-id="87720" tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWclhgA61fnSYG0yF5lCcFb786KwUtCX06DryXNbCBmOr6Bhqgz0XW1FOKGmat9SibQ.png" group-title="VIP Sports 1",NBA TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCBHT1VBqhTCKgz8tHAnq8l
+#EXTINF:-1 xui-id="2" tvg-id="nettv.id" tvg-name="Net. TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWftHqKrXl0Q6glzNfJcGbZhXggCdIRy1RwCEU6t0pYeOfP_87AQmlV8d1JybuEg__E.png" group-title="Local",Net. TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCkxO89m3_54Epfc0LAggXB
+#EXTINF:-1 xui-id="41" tvg-id="nhkworld.id" tvg-name="NHK World" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdPH5gE4Ab9dIYo4X7amCyWTTOCumPU-6Um8S6rixJdyB5HQw4vK0wnvATrFFT330o.png" group-title="News",NHK World
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAve70R8ZTgfTO9lrWRLG0B
+#EXTINF:-1 xui-id="77708" tvg-id="NickJrAsia.sg" tvg-name="Nick Jr" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWex8EAghHDidUC6rY4bUr6TXKWptSE-t5JukmRsPo9rymhcw34a0FlhyUVTcAnk_6k.png" group-title="Kids",Nick Jr
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDqDo834QlTB1Rehw0rmHsH
+#EXTINF:-1 xui-id="63249" tvg-id="nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcz3UQLW_QO5N42fYgj8dKDXY40RTz16SRdE0lqwAs3HNXS__atYW3YYSI2c0Zn0Yo.png" group-title="Kids",Nickelodeon
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC8kzXb7yRU-o7x-gOL6ewb
+#EXTINF:-1 xui-id="132247" tvg-id="OKTV.id" tvg-name="OKTV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SZrZIWbDHLnfAR5frZo3NJg.png" group-title="Local",OKTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCEKG7eDzptMhNT2RmvanWU
+#EXTINF:-1 xui-id="33" tvg-id="GOLFBO" tvg-name="One Golf" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdjoVIaKuVUDsxUOYJnF_9qMcXEmM_M2kTibr66uvlzuvmgJD8Pf7vlgkhV-mMVcXQ.png" group-title="Sports",One Golf
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBUg95LSrCWeBOotdiu2VB-
+#EXTINF:-1 xui-id="52030" tvg-id="ONEMSC" tvg-name="One Music" tvg-logo="https://iptv.lancartech.co.id:443/images/a4e7c014c59441c3d018754e9c00be5c.png" group-title="Music",One Music
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAQc0k8rLawS1QWvHGK5Rn9
+#EXTINF:-1 xui-id="52" tvg-id="VisionPrime.id" tvg-name="Paramount Network" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWc72qahSWXewI5QIAszyV3ZdAl5Y9x2FUL9tnIq8F3SlKylWLNXAyOScUfiTT10tDo.png" group-title="Movies",Paramount Network
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCToYUd9AjbBgFK2hVxaoU5
+#EXTINF:-1 xui-id="132884" tvg-id="" tvg-name="Pijar TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SSfIGLbUsSOKboRw4OOMR3Qev6q5fM5ZjNZTB3cybKxI.png" group-title="Religi",Pijar TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD5IB8WqRmRWRLhjUfYaX0K
+#EXTINF:-1 xui-id="133918" tvg-id="" tvg-name="Prima Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SBp7TQ2hu9cgvTCyPXkZEtrzMeaVo2JtxqEdMWfSbAmY.png" group-title="VIP Sports 3",Prima Sport 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDHrztNCranlNfHP-9QMKCw
+#EXTINF:-1 xui-id="133919" tvg-id="" tvg-name="Prima Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SBp7TQ2hu9cgvTCyPXkZEtkQ7DHo6sON4eTbgbgiiBh8.png" group-title="VIP Sports 3",Prima Sport 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAWU2ZmzP1wUIT5PJHDy-3e
+#EXTINF:-1 xui-id="133920" tvg-id="" tvg-name="Prima Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SBp7TQ2hu9cgvTCyPXkZEtpmCY8es_IuqaWWc3deo8Vo.png" group-title="VIP Sports 3",Prima Sport 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDY2RjXZNhshyajxjtBfQnD
+#EXTINF:-1 xui-id="133835" tvg-id="704" tvg-name="Primetime" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4Sd_22DoDXfQPjyM9wi3S5EgcwQHNWcySX85rBOTdnPNk.png" group-title="Malaysia",Primetime
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBS2J_8OYnQcAvau3YWZjGY
+#EXTINF:-1 xui-id="132958" tvg-id="" tvg-name="RA TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STm94BascJB4r-7-y6A2vcSgxfyWHPYEwCIWqBsTCL-Q.png" group-title="TV Daerah",RA TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDV5l1I5QwVkTAljqy-xom1
+#EXTINF:-1 xui-id="133925" tvg-id="RAISP" tvg-name="Rai Sport" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SDD1q13DW7wYDQVeB1N6TGAUi3bVr1MRaWMnxQt8ccGo.png" group-title="VIP Sports 3",Rai Sport
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBHYZE9BektXrRY4eMP_TbF
+#EXTINF:-1 xui-id="53259" tvg-id="rctihd.id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/8ba168ef77583cc4653d20bdc3f32689.png" group-title="Local",RCTI
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBLpxxz_kh5SwY_1CQwxDhA
+#EXTINF:-1 xui-id="52877" tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcM6cdqJPNacShY3Zk0d-kBAh5tRb_po-7SKcnH0_1qTr52e1nliNzB3AjPqK0_J1I.png" group-title="Sports",Red Bull TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAJ-mm_J1DST0RYJMbnGRC3
+#EXTINF:-1 xui-id="132885" tvg-id="" tvg-name="Reformed 21" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SK3LEWSJcqh0jouHX3ooJbJjc3IyKF-XfHS8U6XpPQHY.png" group-title="Religi",Reformed 21
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXARfE6qj1ssJJAIuID5Yqv5
+#EXTINF:-1 xui-id="133904" tvg-id="RMCSP1" tvg-name="RMC Sports 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SeF_PCDrYaUvw1AFARs1JxPua0jsODHBKsC7aEL1ANmw.png" group-title="VIP Sports 3",RMC Sports 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBs0MTAdQPjmh0eVap48-eY
+#EXTINF:-1 xui-id="133905" tvg-id="RMCSP2" tvg-name="RMC Sports 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SjGB-CmbtKpOsNvcz0-Ss7_JTp9tAVPct8OEbehfVzFo.png" group-title="VIP Sports 3",RMC Sports 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDbDGaLhReHqtCCiolaCMgk
+#EXTINF:-1 xui-id="133906" tvg-id="RMCSP3" tvg-name="RMC Sports 3" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SM5Tb4-6Qe1jusGazQQDsgcnl0HS9UxfyxmUqlNI6Nwg.png" group-title="VIP Sports 3",RMC Sports 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDQ3uHZEuJjmRMo-n_xsw6A
+#EXTINF:-1 xui-id="16689" tvg-id="" tvg-name="Rodja TV" tvg-logo="https://iptv.lancartech.co.id:443/images/780ff6d548525bc9443dbf0deae5e4de.png" group-title="Religi",Rodja TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDOgfqC3mWddy2WDx6sNjaJ
+#EXTINF:-1 xui-id="77707" tvg-id="rtv.id" tvg-name="RTV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeCbfSd-4KundWbazxA1Fifm1M8lQqU9BjRNSlhsAehG_ooDKS5STRs-wFiNWdcyLs.png" group-title="Local",RTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAUZgVi_wgHl-1asu6YyiZj
+#EXTINF:-1 xui-id="51990" tvg-id="RUSTV" tvg-name="Russia Today" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfnCDNa9NddW-8ZXQ5i9G3DP4zDUdJDSiVaaOwmoTRJxy6m3HjGEARZ-ZR-wjMCBbY.png" group-title="News",Russia Today
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBG0xpNNfiupikKCfJrYOCw
+#EXTINF:-1 xui-id="4" tvg-id="sctv.id" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdsJRwX8bGMPLdtX5mYwRB8MGIH1i6S-NLbT88qmS23LcKqnPzeTGD6jDSsn7XaIg8.png" group-title="Local",SCTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBlgOK5os3oyFegXXZKQIU6
+#EXTINF:-1 xui-id="133845" tvg-id="413" tvg-name="Showcase Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SDvFwxlUCoe6c2pVkltuntVhfz7lyDtkXxLNCKnVsntg.png" group-title="Malaysia",Showcase Movies
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBwFjDqeqnNt-Ldk4vAUgV6
+#EXTINF:-1 xui-id="54417" tvg-id="skynews.id" tvg-name="Sky News" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdtu2tksJnNsFTmC3NQnLohQsLHMt3sV45JAYeDkaUSEQxhQWtSb148XtWucZjOnIA.png" group-title="News",Sky News
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCfPCzGRyhwDokiN6VNZJmg
+#EXTINF:-1 xui-id="132416" tvg-id="SSPOPLH" tvg-name="Sky Sport Premiere League" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SjfcrRHBzETwySKzmJVhJcGyk_ZtSwH-LWiFSUmS9u8ZfUtq0ngW_YrZIWgZQ_qep.png" group-title="VIP Sports 1",Sky Sport Premiere League
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBBoMbAOulWy4U4muESVyQV
+#EXTINF:-1 xui-id="132417" tvg-id="SSPOCRH" tvg-name="Sky Sports Football" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SjfcrRHBzETwySKzmJVhJcACYAyFrF6IZAbsnIkFivjg.png" group-title="VIP Sports 1",Sky Sports Football
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAwbVo-kyus8vzw2GAS7iVU
+#EXTINF:-1 xui-id="90269" tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S71o8thD_VwgoZgWCOq9zhvpz8GjYsvVMq4Ra-h16KHU.png" group-title="Sports",Soccer Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCgbso9ArXSERQVWxBqmnk_
+#EXTINF:-1 xui-id="152" tvg-id="OneTVAsia.sg" tvg-name="Sony One" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdih983FCP9QyGnSzMhPOQwAWsugQPBDBluog5hQQBX-RKnsMFnrOK-M5p0TBKnd1U.png" group-title="Entertainment",Sony One
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCin82At0DL0gnPPGa_uQkT
+#EXTINF:-1 xui-id="132194" tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SHtdYwui7tYgWHbu63BVAgXWyWWG_Mwhqeri332ckPcs.png" group-title="VIP Sports 2",Sony Ten 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDIQtlyPYjscDFM9lnUKqlG
+#EXTINF:-1 xui-id="132195" tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SHtdYwui7tYgWHbu63BVAgWvEUpmTr31VnIBjS4JCmHw.png" group-title="VIP Sports 2",Sony Ten 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCc7ZuW2dHLvydPmnCzjZ1J
+#EXTINF:-1 xui-id="132196" tvg-id="" tvg-name="Sony Ten 3" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SHtdYwui7tYgWHbu63BVAgSKWUGndL7g-BcgWBho5Czw.png" group-title="VIP Sports 2",Sony Ten 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDB6cGdsrEGnV210uavUfr_
+#EXTINF:-1 xui-id="68" tvg-id="816" tvg-name="SPO TV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdwhVKRyQt-xTq7TICJe-h6Ks9FKj1xbWSgqe7xY1Dt7960iEjpkWRVIu8pz0hXlcE.png" group-title="Sports",SPO TV 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXACBKJphiCt0FokLoffUnwg
+#EXTINF:-1 xui-id="87710" tvg-id="810" tvg-name="SPO TV 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf7V3KYnGXY0PyJfgklipZFEC8MptWxJM6eTdIwgq20P4pFTK24eDam8EtB2eKiScI.png" group-title="Sports",SPO TV 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAiSG6DACygEAwng_6UvvTH
+#EXTINF:-1 xui-id="132652" tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SnKem9Sptp1xdx4WlaHGwDvK8UEyJXRzXTkaocDibGXs.png" group-title="VIP Sports 1",SPORT TV 1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCF1OscBzD1G6ABW11OCBvS
+#EXTINF:-1 xui-id="132653" tvg-id="" tvg-name="SPORT TV 2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SnKem9Sptp1xdx4WlaHGwDvpFQnHgMvy5o0-AEsLszP8.png" group-title="VIP Sports 1",SPORT TV 2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAbhS1ttLFsEG2OxzOVbcK3
+#EXTINF:-1 xui-id="132654" tvg-id="" tvg-name="SPORT TV 3" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SnKem9Sptp1xdx4WlaHGwDtdLwRobn6uyYsQyDtZePSE.png" group-title="VIP Sports 1",SPORT TV 3
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB_FYdSgxO_k5ItZFZcjHQO
+#EXTINF:-1 xui-id="133910" tvg-id="" tvg-name="Supersport Cricket" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SSznNhGtNrxQotKsQGqXNLtf1mashQ22uVbjyvjsWcAY.png" group-title="VIP Sports 3",Supersport Cricket
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCMO6hbiGrEuXp3EPYLHK_1
+#EXTINF:-1 xui-id="133911" tvg-id="" tvg-name="Supersport Football" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SSznNhGtNrxQotKsQGqXNLu_qNsf_uD83cYWFJTgIjB0.png" group-title="VIP Sports 3",Supersport Football
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAX9igmr11zj0dExGZub6RQ
+#EXTINF:-1 xui-id="132412" tvg-id="Suria.sg" tvg-name="Suria" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SPQ3lJt56K4RZS9bMo6TIwNSDcS4HfUrDqxpTFabfqX8.png" group-title="Singapore",Suria
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDlR4bKFCDiMO6TpQ2M_NR0
+#EXTINF:-1 xui-id="132954" tvg-id="" tvg-name="TA TV" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S62cEBx4oa-RkReDybu4TYISoY-kWxqQiRhTdMjn94Kg.png" group-title="TV Daerah",TA TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD2V_4BX0TGHpCcCxQTxkfn
+#EXTINF:-1 xui-id="50" tvg-id="TENISHD" tvg-name="Tennis Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgyzndY4JnVGTYZp6Yip1JJY9vUfZsyhHdkFa38FWA38UVeu6wO4CiB6RDuFuBGe9k.png" group-title="Sports",Tennis Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDYkwvSixVPq9kRmIk4gjJk
+#EXTINF:-1 xui-id="130046" tvg-id="theindonesiachannel.id" tvg-name="The Indonesia Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S5nBMvJA0ftImTPa8RCcm1Xqq-pc6IFznm35sfPTJidI.png" group-title="Local",The Indonesia Channel
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBZjMhWtA-5f0bwnFjlVpzp
+#EXTINF:-1 xui-id="22" tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfb9633d85p4JvL8jzZE0PG0kOG5SNnWUsVnuWEhCD9YCjN6uBUTaThsehGsZf-o8s.png" group-title="Movies",Thrill
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCNYcCnGeGDFCvrc628VV3L
+#EXTINF:-1 xui-id="78" tvg-id="ABCAustralia.au" tvg-name="TLC" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez_TbzgdBxDQl6XA96QzkapbPqN8-AK5fYjnxctg3-TPhIx6QPAvwFazhkqhu3rc30Y.png" group-title="Entertainment",TLC
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBa7IvczAp66c3ho8DFt7Gj
+#EXTINF:-1 xui-id="6" tvg-id="trans7.id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/9202507dddc04eae317327ce611a75a5.png" group-title="Local",Trans 7
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXATJoc7hAFJrANGSzZUtrI0
+#EXTINF:-1 xui-id="5" tvg-id="transtv.id" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeKigfeIuRdmmVVmA55hx85ilOrhYNC5Y5jUq8r0jfWs7iaw0u_5H9CqLdlcVl63W8.png" group-title="Local",Trans TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXArEIevEsf887l0-WGl2xpp
+#EXTINF:-1 xui-id="133809" tvg-id="TRTWRSD" tvg-name="TRT World" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SOHU5isZGSMhCH4ptaAN6-ObR7oDFoQ7XXUduAIC0hT8.png" group-title="News",TRT World
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDd-mbhn9QgFpwy7IZb8tIM
+#EXTINF:-1 xui-id="10" tvg-id="tvone.id" tvg-name="TV One" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWe97I6yXM-wa89UU21Lq-jwkadrfqvTZoNAr-8wpIFXyXhFNOpzObN6q9ktSxquI9M.png" group-title="Local",TV One
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXA452VIyPWfxFgTTvn75sbw
+#EXTINF:-1 xui-id="132975" tvg-id="101" tvg-name="TV1" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S4lCrGqyLwF27s5sUqDC7ZA.png" group-title="Malaysia",TV1
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAAJUp1hcdltqyZVNS-p5Aq
+#EXTINF:-1 xui-id="132976" tvg-id="102" tvg-name="TV2" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SOitiL7VHBmNijDYWWV_iTQ.png" group-title="Malaysia",TV2
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBRll2jJb1BcY-LSBluR0Nu
+#EXTINF:-1 xui-id="132444" tvg-id="305" tvg-name="TVB Classic" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SVEatuz0l6nC_WMsnxEflz5989NUDPDap_7MglPNvocs.png" group-title="Malaysia",TVB Classic
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBxkhHMAxOQmgW4FNJ7K-Hu
+#EXTINF:-1 xui-id="117977" tvg-id="" tvg-name="TVKU" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfzofR75RXAuATFAS617QdaKbnX0Zym1QeTIypz-3XRbeLIgYIEjW6rxgYW8fpEbZc.png" group-title="TV Daerah",TVKU
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAl7OKPheWamSrky3rrhkJm
+#EXTINF:-1 xui-id="133801" tvg-id="" tvg-name="TVMU" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SMOJm0Pk1MwS5foBUL5aDGX9bpESb7svpKtTUBGdu5_U.png" group-title="Religi",TVMU
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXB7l4PkDieisi7xAaQFR2Sl
+#EXTINF:-1 xui-id="57" tvg-id="ABCAustralia.au" tvg-name="TvN" tvg-logo="https://iptv.lancartech.co.id:443/images/2506eee5a26a647088e99fae0e468a39.png" group-title="Entertainment",TvN
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDnKGCESD5i1hC_lQNibnMW
+#EXTINF:-1 xui-id="58" tvg-id="tvnmovies.id" tvg-name="TvN Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/afef59ea961811318068f2300d101c24.png" group-title="Movies",TvN Movies
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDTF1NzRwwfwQvUqxPHXmgk
+#EXTINF:-1 xui-id="16" tvg-id="tvri.id" tvg-name="TVRI" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-OhZIQv9VOOAqA03tCi65UhrDxSYaWYR7mIUXfMonlvJdpnwSidLQEosvBsEILeno.png" group-title="Local",TVRI
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAfrqmenbcaqVd0rZf9-N_l
+#EXTINF:-1 xui-id="133930" tvg-id="TVRISports.id" tvg-name="TVRI Sport" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S7YvLIvR9wl0jJj0zlvl1FaGHZZdXfUhcJjIVGvV5zbg.png" group-title="Sports",TVRI Sport
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD50U1zUuav0g0w8oEHT_Zw
+#EXTINF:-1 xui-id="52891" tvg-id="" tvg-name="UFC" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez9K20Ej_JB4q9zwGEUCK_wp6jjtenE7gdlbgZF-X7gV7dw_Bba5ajK6OGaBx50SuAM.png" group-title="Sports",UFC
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXACeUZDFlqRugZLQlpZWsQ4
+#EXTINF:-1 xui-id="132411" tvg-id="Vasantham.sg" tvg-name="Vasantham" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SLMk7LkSZFEaEQNvoXtVimPmcWynxzG0BqikBk5vOl2w.png" group-title="Singapore",Vasantham
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC2K-68b4tbFLHnCMJSmsex
+#EXTINF:-1 xui-id="132246" tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S_TD3G_rgk5KosoTStB7qSMJhE6VHC9Ght6BPTiHDGlU.png" group-title="Local",Vision Prime
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXC7wiO_rzc_jKpN379nOMx7
+#EXTINF:-1 xui-id="134473" tvg-id="" tvg-name="VTV" tvg-logo="" group-title="Local",VTV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCsyd4nnMv159NtZN_6aITw
+#EXTINF:-1 xui-id="76" tvg-id="warnertv.id" tvg-name="Warner TV" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcO1KJSWfPA4koDRkGBrKMW8BxnUlcdg2Knxo0wnq0cJ-74sI7IA3IRMbv2QDM3ozI.png" group-title="Movies",Warner TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAiAGT-Qrz2j8lll6E0zXgc
+#EXTINF:-1 xui-id="16687" tvg-id="" tvg-name="Wesal TV" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-PgOhK3Tf_HRo7mGmpcI2k-9r9aeNIvwBFxnHRz2ACnUofi7URtWLmVFjhZGE9Yh0.png" group-title="Religi",Wesal TV
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBQYmO66OuiFZXk84hN92E-
+#EXTINF:-1 xui-id="18477" tvg-id="821" tvg-name="WWE Network" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeBGBQOc1Xo2qdTp59-txZyG3JvVEEqDCMdjFKvbqSa9S_RnG-wgXXJWusnphobHdQ.png" group-title="Sports",WWE Network
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBUo6KfasyXsPONNeirlsx2
+#EXTINF:-1 xui-id="27479" tvg-id="zee.id" tvg-name="ZeeBioskop" tvg-logo="https://iptv.lancartech.co.id:443/images/06581e2901ea03ac6c9b8ef87c4201f4.png" group-title="Movies",ZeeBioskop
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXAPdlSqheECgKCOXpI1fiSF
+#EXTINF:-1 xui-id="133821" tvg-id="ZIGSPGO" tvg-name="Ziggo Sport Golf" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SJck1-TL3oQ4QxFQaVbvB-unqwO8Os_qMb8k4XjWhK-8.png" group-title="VIP Sports 2",Ziggo Sport Golf
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXD0KOeiG57LMebHxKmUAL-i
+#EXTINF:-1 xui-id="133822" tvg-id="ZIGSPRA" tvg-name="Ziggo Sport Racing" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SJck1-TL3oQ4QxFQaVbvB-vjaaekYM6JZqtgadBi3k9Q.png" group-title="VIP Sports 2",Ziggo Sport Racing
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBlJl88-vKQc-HFOBpZs6Ff
+#EXTINF:-1 xui-id="133824" tvg-id="ZIGSPSE" tvg-name="Ziggo Sport Select" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SJck1-TL3oQ4QxFQaVbvB-gilOjTZVPsjP-ZlnVL6HIQ.png" group-title="VIP Sports 2",Ziggo Sport Select
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDW0c3GyTP63Ch4iur5iKLu
+#EXTINF:-1 xui-id="133823" tvg-id="ZIGSPVO" tvg-name="Ziggo Sport Voetbal" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SJck1-TL3oQ4QxFQaVbvB-hGyDYZHAmOpGcZB4h16CCE.png" group-title="VIP Sports 2",Ziggo Sport Voetbal
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXDa_HGhfpz8RVqTc5ZGsqdB
+#EXTINF:-1 xui-id="132642" tvg-id="FLIX" tvg-name="&FLIX" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SzomgdgjH8HRLMwy6YsS8lZGP6spq1xwoATFjWCFKPvE.png" group-title="Entertainment",&FLIX
+https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXBmbGTGfFb7hGYNv0R17xpK
